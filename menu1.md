@@ -68,9 +68,9 @@
 ![image](https://user-images.githubusercontent.com/1119014/208244163-85274e6f-60c7-4836-a539-9a14986ec9a8.png)
 
 ## 9. 舞力全开 亚洲版
+![image](https://user-images.githubusercontent.com/1119014/208244183-ad045457-1b48-4445-9d47-3f4d15b1066a.png)
 ![image](https://user-images.githubusercontent.com/1119014/208244189-e011dfd1-164b-4a5e-a6e9-f3f2ecb7ebd6.png)
 ![image](https://user-images.githubusercontent.com/1119014/208244192-2a686d97-20e0-42e1-88c0-9d424c1027eb.png)
-![image](https://user-images.githubusercontent.com/1119014/208244183-ad045457-1b48-4445-9d47-3f4d15b1066a.png)
 ![image](https://user-images.githubusercontent.com/1119014/208244194-0a266ee2-708b-41a5-baa5-cb03006e7ac4.png)
 ![image](https://user-images.githubusercontent.com/1119014/208244195-15a23753-bc07-4686-94df-8d8c235753d6.png)
 
