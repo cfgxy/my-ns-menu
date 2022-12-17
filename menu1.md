@@ -47,9 +47,9 @@
 ![image](https://user-images.githubusercontent.com/1119014/208243980-d89da0b6-89cc-4214-90b5-bc0b45d0a605.png)
 
 ## 6. 大航海时代Ⅳ with 威力加强版 HD Version
+![image](https://user-images.githubusercontent.com/1119014/208244033-99bf53fc-c8fe-473b-8d5d-50646d69a201.png)
 ![image](https://user-images.githubusercontent.com/1119014/208244036-b666beb6-a377-4652-9dc1-0b2672dfefb0.png)
 ![image](https://user-images.githubusercontent.com/1119014/208244039-32f08960-d2d6-4884-99b6-12efe26f9ad6.png)
-![image](https://user-images.githubusercontent.com/1119014/208244033-99bf53fc-c8fe-473b-8d5d-50646d69a201.png)
 ![image](https://user-images.githubusercontent.com/1119014/208244050-3dd2b6d4-c5f4-4c2a-8bd7-3e7b4d9eb153.png)
 ![image](https://user-images.githubusercontent.com/1119014/208244045-98d230c7-d176-4cb5-beed-c8f0cb5bc0ec.png)
 
