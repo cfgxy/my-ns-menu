@@ -67,15 +67,15 @@
 ![image](https://user-images.githubusercontent.com/1119014/208276315-3614419a-ec91-4436-b461-b035d8910179.png)
 
 ## 6. 马里奥赛车8 豪华版
-![image](https://user-images.githubusercontent.com/1119014/208276377-2ccf9bf9-c3dc-41a6-af33-cdf942e6669e.png)
 ![image](https://user-images.githubusercontent.com/1119014/208276356-d9dd59a4-a0fb-48fb-a808-4574d3a543d9.png)
+![image](https://user-images.githubusercontent.com/1119014/208276377-2ccf9bf9-c3dc-41a6-af33-cdf942e6669e.png)
 ![image](https://user-images.githubusercontent.com/1119014/208276392-fdbd556c-f657-417f-a9ad-5c448190c19e.png)
 ![image](https://user-images.githubusercontent.com/1119014/208276407-3c3e8bb0-29b9-4885-986c-f78eed22a3d7.png)
 ![image](https://user-images.githubusercontent.com/1119014/208276430-b7a45169-a11a-49fa-8347-c428b2317900.png)
 
 ## 7. 胡闹厨房：全都好吃
-![image](https://user-images.githubusercontent.com/1119014/208276790-4b5fdaef-4365-489f-b55c-1eb19842aa09.png)
 ![image](https://user-images.githubusercontent.com/1119014/208276771-f39c4d6b-515d-4a52-9fc4-7092d6f2b59e.png)
+![image](https://user-images.githubusercontent.com/1119014/208276790-4b5fdaef-4365-489f-b55c-1eb19842aa09.png)
 ![image](https://user-images.githubusercontent.com/1119014/208276823-9b36f340-6b5a-4881-8d66-fb247751f809.png)
 ![image](https://user-images.githubusercontent.com/1119014/208276843-5e18272b-d427-423e-8132-c92dae353d59.png)
 ![image](https://user-images.githubusercontent.com/1119014/208276858-1bbe7e76-ecc3-4669-9e42-647ff5fec663.png)
@@ -88,8 +88,8 @@
 ![image](https://user-images.githubusercontent.com/1119014/208278320-3baa02f7-6f86-4937-8752-620070d2e92c.png)
 
 ## 9. 廖添丁：绝代凶贼之死期
-![image](https://user-images.githubusercontent.com/1119014/208277097-27ade875-242b-48e9-8673-f00335ddfcec.png)
 ![image](https://user-images.githubusercontent.com/1119014/208277080-537d225a-29c7-447a-917f-bcfa4e809a53.png)
+![image](https://user-images.githubusercontent.com/1119014/208277097-27ade875-242b-48e9-8673-f00335ddfcec.png)
 ![image](https://user-images.githubusercontent.com/1119014/208277150-54996cd6-c0c0-4da3-bd37-03789f5255a9.png)
 ![image](https://user-images.githubusercontent.com/1119014/208277132-ad2e1ba4-efc5-4086-8f0f-030eb2e8a2a6.png)
 ![image](https://user-images.githubusercontent.com/1119014/208277170-aa9d5123-219f-4d7c-87ac-dda111a4d94d.png)
@@ -137,8 +137,8 @@
 ![image](https://user-images.githubusercontent.com/1119014/208278338-49a5f605-ac88-4232-a81b-bc8bd259b567.png)
 
 ## 16. 一起来玩吧
-![image](https://user-images.githubusercontent.com/1119014/208278413-b503bb81-4b72-4ab6-9518-d64ff9d96fc9.png)
 ![image](https://user-images.githubusercontent.com/1119014/208278410-e50e0395-1be0-4f2c-8613-fb706bbff7a0.png)
+![image](https://user-images.githubusercontent.com/1119014/208278413-b503bb81-4b72-4ab6-9518-d64ff9d96fc9.png)
 ![image](https://user-images.githubusercontent.com/1119014/208278416-cdd80f91-4762-46cd-80a9-bf5760b72776.png)
 ![image](https://user-images.githubusercontent.com/1119014/208278418-45280cd4-4bfc-476b-bd63-223c33e274e6.png)
 ![image](https://user-images.githubusercontent.com/1119014/208278421-f4439d55-84d6-4f8e-be64-7bfe6b5ec591.png)
@@ -179,9 +179,9 @@
 ![image](https://user-images.githubusercontent.com/1119014/208279768-42c7e229-abc8-403a-b700-2b6fb846412d.png)
 
 ## 22. 任天堂明星大乱斗 特别版
+![image](https://user-images.githubusercontent.com/1119014/208279502-e7a030ed-64f5-4058-9c4c-1e3843273e69.png)
 ![image](https://user-images.githubusercontent.com/1119014/208279503-53b06d1c-3f2c-4ee2-8f61-52261cc472b5.png)
 ![image](https://user-images.githubusercontent.com/1119014/208279504-0e2bab93-1cc2-4e89-9b8c-2b4f5216ca38.png)
-![image](https://user-images.githubusercontent.com/1119014/208279502-e7a030ed-64f5-4058-9c4c-1e3843273e69.png)
 ![image](https://user-images.githubusercontent.com/1119014/208279508-2170fb6d-16bb-4f3e-9135-9723e63c39a3.png)
 ![image](https://user-images.githubusercontent.com/1119014/208279511-d1304f39-b043-4a76-81b4-8837b657067e.png)
 
