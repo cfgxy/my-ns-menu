@@ -18,9 +18,19 @@
 | 1 | 0100D2F00D5C0000 | [任天堂Switch运动](#1-任天堂Switch运动) |
 | 1 | 01001A8015506000 | [一起来玩吧](#1-一起来玩吧) |
 | 1 | 0100563010E0C000 | [分享同乐！瓦力欧制造](#1-分享同乐瓦力欧制造) |
-| 1 | 0100D2F00D5C0000 | [任天堂Switch运动](#1-任天堂Switch运动) |
-| 1 | 0100D2F00D5C0000 | [任天堂Switch运动](#1-任天堂Switch运动) |
-| 1 | 0100D2F00D5C0000 | [任天堂Switch运动](#1-任天堂Switch运动) |
+| 1 | 01007E3006DDA000 | [星之卡比 新星同盟](#1-星之卡比-新星同盟) |
+| 1 | 01002FF008C24000 | [健身环大冒险](#1-健身环大冒险) |
+| 1 | 010028600EBDA000 | [超级马里奥3D世界+狂怒世界](#1-超级马里奥3D世界狂怒世界) |
+| 1 | 0100BDE00862A000 | [马里奥网球 王牌](#1-马里奥网球-王牌) |
+| 1 | 01006A800016E000 | [任天堂明星大乱斗 特别版](#1-任天堂明星大乱斗-特别版) |
+| 1 | 01001E0013208000 | [卡普空街机馆](#1-卡普空街机馆) |
+| 1 | 01009B500007C000 | [ARMS](#1-ARMS) |
+| 1 | 01000320000CC000 | [1-2-Switch](#1-1-2-Switch) |
+| 1 | 0100EA80032EA000 | [新超级马里奥兄弟U 豪华版](#1-新超级马里奥兄弟U-豪华版) |
+| 1 | 01004D300C5AE000 | [星之卡比 探索发现](#1-星之卡比-探索发现) |
+| 1 | 01006FE013472000 | [马里奥派对：超级巨星](#1-马里奥派对超级巨星) |
+| 1 | 0100073011382000 | [健身拳击2：节奏与锻炼](#1-健身拳击2：节奏与锻炼) |
+| 1 | 0100A9B015658000 | [节奏健身](#1-节奏健身) |
 
 ## 1. 路易吉鬼屋3
 ![image](https://user-images.githubusercontent.com/1119014/208276138-7455c3f2-9496-4e6d-a650-1556313dcad0.png)
@@ -147,3 +157,90 @@
 ![image](https://user-images.githubusercontent.com/1119014/208278471-4b6fd2a4-c8c9-4a37-9c12-f4826689e00d.png)
 ![image](https://user-images.githubusercontent.com/1119014/208278473-79919def-ec72-4496-9271-e6ddb9bb3911.png)
 ![image](https://user-images.githubusercontent.com/1119014/208278478-852c4bc2-63eb-49c2-87fc-5ee5ff4ccfa1.png)
+
+## 19. 星之卡比 新星同盟
+![image](https://user-images.githubusercontent.com/1119014/208279214-b416369d-c920-40ce-bb35-81c4162ab2fc.png)
+![image](https://user-images.githubusercontent.com/1119014/208279220-e8bbcb6e-5649-4ce7-885c-fbadcee8c663.png)
+![image](https://user-images.githubusercontent.com/1119014/208279225-1629fe86-b68f-4521-ab1b-e34c82095cfa.png)
+![image](https://user-images.githubusercontent.com/1119014/208279229-d996d252-8abd-464d-bfcd-8705f4024f38.png)
+![image](https://user-images.githubusercontent.com/1119014/208279230-921854d3-1051-436b-afdd-13e47935d3bd.png)
+
+## 20. 健身环大冒险
+![image](https://user-images.githubusercontent.com/1119014/208279430-50f298ee-af70-472b-b993-80d907490850.png)
+
+## 21. 超级马里奥3D世界+狂怒世界
+![image](https://user-images.githubusercontent.com/1119014/208279454-7197a6c8-08e9-44a9-9dcb-4371cdebb33a.png)
+![image](https://user-images.githubusercontent.com/1119014/208279458-d98daa24-c28a-40ed-99e9-f9d36887bee1.png)
+![image](https://user-images.githubusercontent.com/1119014/208279462-04197ff6-8487-4b2a-b60d-515569787a36.png)
+![image](https://user-images.githubusercontent.com/1119014/208279464-daba3c70-cbaa-487b-8c42-033bdf936b4a.png)
+![image](https://user-images.githubusercontent.com/1119014/208279461-b4ebc0f5-af46-4685-8f27-fcaa8d9b8521.png)
+
+## 22. 马里奥网球 王牌
+![image](https://user-images.githubusercontent.com/1119014/208279481-91eb8a3d-655c-4101-a588-e5272c65248d.png)
+![image](https://user-images.githubusercontent.com/1119014/208279482-2ff748c3-957f-4029-9b82-2c7139449c5a.png)
+![image](https://user-images.githubusercontent.com/1119014/208279484-df41f611-3bda-4998-a0ff-99f11eabd456.png)
+![image](https://user-images.githubusercontent.com/1119014/208279487-babf8cc3-656a-4ef4-a9bc-b621f30ef708.png)
+![image](https://user-images.githubusercontent.com/1119014/208279488-2b718b03-3d6f-4126-8220-de2bed693071.png)
+
+## 23. 任天堂明星大乱斗 特别版
+![image](https://user-images.githubusercontent.com/1119014/208279503-53b06d1c-3f2c-4ee2-8f61-52261cc472b5.png)
+![image](https://user-images.githubusercontent.com/1119014/208279504-0e2bab93-1cc2-4e89-9b8c-2b4f5216ca38.png)
+![image](https://user-images.githubusercontent.com/1119014/208279502-e7a030ed-64f5-4058-9c4c-1e3843273e69.png)
+![image](https://user-images.githubusercontent.com/1119014/208279508-2170fb6d-16bb-4f3e-9135-9723e63c39a3.png)
+![image](https://user-images.githubusercontent.com/1119014/208279511-d1304f39-b043-4a76-81b4-8837b657067e.png)
+
+## 24. 卡普空街机馆
+![image](https://user-images.githubusercontent.com/1119014/208279611-494f51b9-a530-492f-b070-69ddd7c59914.png)
+![image](https://user-images.githubusercontent.com/1119014/208279655-c2fbb7d9-0b9b-4a6f-bb28-60cc5a502b30.png)
+![image](https://user-images.githubusercontent.com/1119014/208279658-a5eb9a37-9356-4f19-b97a-ac7d9e4a9e49.png)
+![image](https://user-images.githubusercontent.com/1119014/208279659-f680996d-d3bf-40de-a393-d312fab05b2f.png)
+![image](https://user-images.githubusercontent.com/1119014/208279664-3f27f2b4-12ea-4023-b6b7-9196fd7ecb15.png)
+
+## 25. ARMS
+![image](https://user-images.githubusercontent.com/1119014/208279692-73f7070c-4bdf-41a7-8f1e-7708aefca413.png)
+![image](https://user-images.githubusercontent.com/1119014/208279698-132ba14b-4505-49d4-8d1c-dfa4172930ce.png)
+![image](https://user-images.githubusercontent.com/1119014/208279701-ffc30d1c-e8b6-4711-996b-ca73c54efe9e.png)
+![image](https://user-images.githubusercontent.com/1119014/208279703-ecb4556a-3091-4317-b298-ffb2056e12ea.png)
+![image](https://user-images.githubusercontent.com/1119014/208279696-c915c19d-444f-45ff-92d5-c6cdc6d75da8.png)
+
+## 26. 1-2-Switch
+![image](https://user-images.githubusercontent.com/1119014/208279725-f85999f4-2057-474e-a244-2ab72923463b.png)
+![image](https://user-images.githubusercontent.com/1119014/208279729-c7683bd8-3b12-41c0-8fdf-0c779c71acbe.png)
+![image](https://user-images.githubusercontent.com/1119014/208279734-0cc0aba1-5e09-4ff5-977a-a7a64a4f693d.png)
+![image](https://user-images.githubusercontent.com/1119014/208279735-73231bcc-7f89-4abe-abad-b159226bd49c.png)
+![image](https://user-images.githubusercontent.com/1119014/208279736-2dded0c5-e112-435f-909d-f9402a4a2dbd.png)
+
+## 27. 新超级马里奥兄弟U 豪华版
+![image](https://user-images.githubusercontent.com/1119014/208279756-9f72d73a-d76b-446b-80a8-cab34a469dc9.png)
+![image](https://user-images.githubusercontent.com/1119014/208279758-a82c9a5a-72a4-4b44-92ff-2b10c4d58ce7.png)
+![image](https://user-images.githubusercontent.com/1119014/208279761-2140fcef-eed3-421b-a0c3-793f8ff65ebe.png)
+![image](https://user-images.githubusercontent.com/1119014/208279764-bbe0e7e7-ee18-4ccd-a57c-0c9db0b4096f.png)
+![image](https://user-images.githubusercontent.com/1119014/208279768-42c7e229-abc8-403a-b700-2b6fb846412d.png)
+
+## 28. 星之卡比 探索发现
+![image](https://user-images.githubusercontent.com/1119014/208279787-38870843-6441-4833-91e8-a97020f99ee8.png)
+![image](https://user-images.githubusercontent.com/1119014/208279789-22c1f593-30b0-4c3d-81d0-ea4b20f287a3.png)
+![image](https://user-images.githubusercontent.com/1119014/208279792-3d32fd47-95b4-47db-aea7-eb84e9941874.png)
+![image](https://user-images.githubusercontent.com/1119014/208279794-398e5510-dedb-42be-870d-ff052a756477.png)
+![image](https://user-images.githubusercontent.com/1119014/208279795-a3588839-1de4-43a1-93ae-c53f05b14fea.png)
+
+## 29. 马里奥派对：超级巨星
+![image](https://user-images.githubusercontent.com/1119014/208279818-403060fa-1b39-4f43-9855-882b77d2b471.png)
+![image](https://user-images.githubusercontent.com/1119014/208279823-e3bb6609-33d1-4b27-97a5-7114d5fddee1.png)
+![image](https://user-images.githubusercontent.com/1119014/208279825-c1036fff-77ea-4734-a3a4-af9a99d4ea14.png)
+![image](https://user-images.githubusercontent.com/1119014/208279829-74ec0bad-addb-476a-82ea-a557b3602591.png)
+![image](https://user-images.githubusercontent.com/1119014/208279827-ddbf5c69-a9d7-48c6-970e-b8016d991b70.png)
+
+## 30. 健身拳击2：节奏与锻炼
+![image](https://user-images.githubusercontent.com/1119014/208279856-ac6a076e-e2b5-4f6b-98f9-7abb79941eb2.png)
+![image](https://user-images.githubusercontent.com/1119014/208279858-55a4b6fb-3f69-4557-baf9-42eff73450c7.png)
+![image](https://user-images.githubusercontent.com/1119014/208279860-098ceb53-de08-4ccf-bfdb-c8ed34b19ebc.png)
+![image](https://user-images.githubusercontent.com/1119014/208279861-31a05f19-2b74-4bd6-8e84-1adc77c9615f.png)
+![image](https://user-images.githubusercontent.com/1119014/208279864-664cb5c6-ee0e-48f4-8018-56c2d2db1a5c.png)
+
+## 31. 节奏健身
+![image](https://user-images.githubusercontent.com/1119014/208279913-17afabfb-b65f-45fa-a470-14ff5738cbfa.png)
+![image](https://user-images.githubusercontent.com/1119014/208279915-ec17eed5-06fe-4b27-acf1-420f30b4643c.png)
+![image](https://user-images.githubusercontent.com/1119014/208279917-f7c2fbd9-016b-4e1c-a9dd-6593e8628305.png)
+![image](https://user-images.githubusercontent.com/1119014/208279920-582a802c-6932-467a-8f21-76bb3bd1b98f.png)
+![image](https://user-images.githubusercontent.com/1119014/208279921-292359ba-ac5e-4871-b1c1-67ecb69c3a2d.png)
