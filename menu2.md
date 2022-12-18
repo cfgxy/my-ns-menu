@@ -15,8 +15,8 @@
 | 13 | 01001AE005166000 | [百战天虫：战争武器](#13-百战天虫战争武器) |
 
 ## 1. 三国志14威力加强版
-![image](https://user-images.githubusercontent.com/1119014/208272133-5674f7a3-ba71-45b9-9ec3-726e098bd05c.png)
 ![image](https://user-images.githubusercontent.com/1119014/208272131-179adcff-6026-4c69-b238-b546c97a24c3.png)
+![image](https://user-images.githubusercontent.com/1119014/208272133-5674f7a3-ba71-45b9-9ec3-726e098bd05c.png)
 ![image](https://user-images.githubusercontent.com/1119014/208272136-fb516a32-2f04-4834-bc0c-159c919dd8af.png)
 ![image](https://user-images.githubusercontent.com/1119014/208272135-e0f01358-197c-404d-819c-98c97bc97d50.png)
 ![image](https://user-images.githubusercontent.com/1119014/208272137-0f0b9934-d5a7-4f8c-b743-e47f04cc445d.png)
